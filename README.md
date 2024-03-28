@@ -1,2 +1,2 @@
-This github repository is for the Bioinformatics Capstone project of Brian Hayes, Adelyn Plazola, Colin Smih, and Nathan Redd. 
-These modules can be used for educational purposes only. The authors can be reached through github or through email at bdhayes@byu.edu
+This is the graph creation branch of the Bioinformatics Capstone project. 
+These modules can be used for educational purposes only.
